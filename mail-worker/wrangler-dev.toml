@@ -41,4 +41,4 @@ analysis_cache = false
 orm_log = false
 domain = ["walendowski.pl"]
 admin = "admin@walendowski.pl"
-jwt_secret = 0fa495d1defd9d1806e1b4dac17da64d1646da9fcc6fa2d423ce541e92d9c167"
+jwt_secret = "0fa495d1defd9d1806e1b4dac17da64d1646da9fcc6fa2d423ce541e92d9c167"
