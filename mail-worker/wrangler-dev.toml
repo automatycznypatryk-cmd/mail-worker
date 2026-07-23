@@ -12,11 +12,11 @@ ip = "0.0.0.0"
 [[d1_databases]]
 binding = "db"
 database_name = "db"
-database_id = "a4c1a63a-6ef5-4e6d-8e8c-b6d9e8feb810"
+database_id = "2e27e91f-7e56-4b85-aac1-c32145bfc879"
 
 [[kv_namespaces]]
 binding = "kv"
-id = "2io01d4b299e481b9de060ece9e7785c"
+id = "d50d12866e0841918e5183d295494f48"
 
 #[[r2_buckets]]
 #binding = "r2"
